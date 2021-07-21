@@ -2,5 +2,8 @@
 #include<stdio.h>
 int main void
 {
-printf("hello world")
+int i;
+scanf("%d",&i);
+if(i=Y)
+printf("hello world");
 }
